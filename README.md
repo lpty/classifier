@@ -2,6 +2,12 @@
 一些常见的神经网络的复现
 
 ## 历史
+#### 2018-12-06
+* textrnn
+
+    简单实现了Bi-LSTM+softmax,似乎效果并不是特别好。更多相关的模型可以参考：
+    Recurrent Neural Network for Text Classification with Multi-Task Learning
+    
 #### 2018-11-27
 * textcnn
 
