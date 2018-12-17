@@ -2,6 +2,11 @@
 一些常见的神经网络的复现
 
 ## 历史
+#### 2018-12-17
+* dcnn
+
+    实现论文A Convolutional Neural Network for Modelling Sentences中模型。
+
 #### 2018-12-06
 * textrnn
 
