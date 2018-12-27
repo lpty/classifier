@@ -2,6 +2,11 @@
 一些常见的神经网络的复现
 
 ## 历史
+#### 2018-12-27
+* attention
+
+    实现论文 Neural Machine Translation by Jointly Learning to Align and Translate中模型
+
 #### 2018-12-17
 * dcnn
 
