@@ -2,7 +2,7 @@
 一些常见的神经网络的复现
 
 ## 历史
-#### 2019-01010
+#### 2019-01-10
 * transformer
 
     基于论文 Attention Is All You Need 实现的transformer分类模型
