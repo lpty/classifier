@@ -2,6 +2,11 @@
 一些常见的神经网络的复现
 
 ## 历史
+#### 2019-01-14
+* bert
+
+    基于Google的BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding进行fine-tuning，构造二分类模型
+    
 #### 2019-01-10
 * transformer
 
