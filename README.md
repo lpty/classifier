@@ -5,7 +5,7 @@
 #### 2019-01-14
 * bert
 
-    基于Google的BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding进行fine-tuning，构造二分类模型
+    基于论文BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding进行fine-tuning
     
 #### 2019-01-10
 * transformer
